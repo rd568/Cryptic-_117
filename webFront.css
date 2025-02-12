@@ -1,32 +1,25 @@
 @font-face {
-    font-family: "CaesarDressing-Regular";
-    src: url('C:\Users\romed\OneDrive\Documents\Html project\Cryptic-_117\Fonts\Caesar_Dressing')format('ttf');
+    font-family: "Tiki";
+    src: url('Fonts/Caesar_Dressing/CaesarDressing-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
+
 
 p{
     font-family: "CaesarDressing-Regular";
 }
 
+
+
+
+
 #Quicklinks{
     margin: auto;
 }
 
-topofPage img{
-    width: 50px;
-    height: auto:
-}
-
-topofPage h1{
-    color: white;
-    font-family: "CaesarDressing-Regular";
-}
-
-body{
-    background-color: #06241f;
-}
-
-#sLogo{
- 
+#Quicklinks table{
+    margin 0;
 }
 
 #Quicklinks th{
@@ -36,13 +29,41 @@ body{
     border-style: inset;
     color: rgb(0, 0, 0);
     background-color: rgb(250, 250, 250);
+    position: relative;
+    bottom: 60px;
 }
 
+
+
+
+
+topofPage{
+    display: flex;
+    align-items: center;
+    gap: 10px;  
+}
+
+topofPage img{
+    width: 50px;
+    height: auto;
+}
+
+topofPage h1{
+    color: white;
+    font-family: "Tiki", sans-serif;
+
+}
+
+
+body{
+    background-color: #06241f;
+}
+
+
 introduction p{
-    font-size: 12px;
+    font-size: 20px;
     text-align: center;
     color: white;
-    font-family: 'CaesarDressing-Regular';
 }
 
 .Welcome{
