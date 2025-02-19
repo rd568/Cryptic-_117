@@ -62,7 +62,8 @@ topofPage h1{
 
 body{
     background-color: #06241f;
-    height: 100%
+    height: auto;
+    width: auto;
 }
 
 
