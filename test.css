@@ -3,6 +3,8 @@
     display: table;
     height: 80px;
     border: none;
+    position: relative;
+    bottom: 60px;
 }
 
 #Quick{

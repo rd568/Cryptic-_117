@@ -15,37 +15,12 @@ p{
     font-family: "CaesarDressing-Regular";
 }
 
-
-
-
-
-#Quicklinks{
-    margin: auto;
-}
-
-#Quicklinks table{
-    margin 0;
-}
-
-#Quicklinks th{
-    padding: 30px 30px;
-    font-size: 18px;
-    border:  4.5px solid #06241f;
-    border-style: inset;
-    color: rgb(0, 0, 0);
-    background-color: rgb(250, 250, 250);
-    position: relative;
-    bottom: 60px;
-}
-
-
-
-
-
 topofPage{
     display: flex;
     align-items: center;
     gap: 10px;
+    position: relative;
+    bottom: 28px;
 }
 
 topofPage img{
