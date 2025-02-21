@@ -15,7 +15,7 @@ p{
     font-family: "CaesarDressing-Regular";
 }
 
-topofPage{
+/*topofPage{
     display: flex;
     align-items: center;
     gap: 10px;
@@ -26,12 +26,13 @@ topofPage{
 topofPage img{
     width: 50px;
     height: auto;
-}
+}*/
 
 topofPage h1{
     color: white;
     font-family: "Tiki", sans-serif;
-
+    font-size: 40px;
+    text-align: center;
 }
 
 
