@@ -1,0 +1,55 @@
+
+#Cbody{
+    background-color: rgb(193, 18, 31);
+}
+
+#Goat{
+    width: 200px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    left: 650px;
+    padding: 4px 4px;
+}
+
+#GoatH{
+    font-size: 40px;
+    padding: 4px 4px;
+    position: relative;
+    margin: 0;
+}
+
+#desGoat{
+    width: 400px;
+    position: relative;
+    left: 550px;
+    background-color: rgba(52, 36, 36, 0.626);
+}
+
+#DD{
+    width: 200px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    left: 650px;
+    padding: 4px 4px;
+}
+
+#DDH{
+    font-size: 40px;
+    padding: 4px 4px;
+    position: relative;
+    margin: 0;
+}
+
+#desDD{
+    width: 400px;
+    position: relative;
+    left: 550px;
+    background-color: rgba(52, 36, 36, 0.626);
+}
+
+ListCry{
+    text-align: center;
+
+}
