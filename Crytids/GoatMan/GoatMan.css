@@ -2,6 +2,7 @@
     background-color: rgb(193, 18, 31);
 }
 
+
 p{
     width: 1000px;
     background-color: #fdf0d5;
@@ -11,6 +12,8 @@ p{
     left: 250px;
     padding: 30px 30px;
     color:black;
+    font-size: 20px;
+    padding-top: 20px;
 }
 
 h2{
