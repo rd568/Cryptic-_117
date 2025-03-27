@@ -1,0 +1,55 @@
+
+#Cbody{
+    background-color: #2B3349;
+}
+
+#Moon{
+    width: 200px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    left: 650px;
+    padding: 4px 4px;
+}
+
+#Moonl{
+    font-size: 40px;
+    padding: 4px 4px;
+    position: relative;
+    margin: 0;
+}
+
+#desMoon{
+    width: 400px;
+    position: relative;
+    left: 550px;
+    background-color: rgba(52, 36, 36, 0.626);
+}
+
+#Il{
+    width: 200px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    left: 650px;
+    padding: 4px 4px;
+}
+
+#Illu{
+    font-size: 40px;
+    padding: 4px 4px;
+    position: relative;
+    margin: 0;
+}
+
+#desIl{
+    width: 400px;
+    position: relative;
+    left: 550px;
+    background-color: rgba(52, 36, 36, 0.626);
+}
+
+ListCon{
+    text-align: center;
+
+}
