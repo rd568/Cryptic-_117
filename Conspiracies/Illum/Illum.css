@@ -44,11 +44,11 @@ p{
     color: black;
 }
 
-#moonL{
-    background: #223C63;
+#illU{
+    background: #FC8A55;
 }
 
-#imgM1{
+#imgI1{
     width: 500px;
     position: relative;
     left: 500px;
@@ -66,5 +66,9 @@ h1{
     color: black;
     text-align:left;
     margin: 5px 5px;
+}
+
+#Ital{
+    color:black;
 }
 
