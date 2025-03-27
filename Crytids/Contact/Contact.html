@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+
+    <link rel="stylesheet" href="Contact.css">
+    <link rel="stylesheet" href="../../CopyR.css">
+    <link rel="stylesheet" href="../../HeadL.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+</head>
+
+<body id="illU">
+    <br><br>
+    <iframe id="test" src="../../HeadL.html"></iframe>
+
+
+    <h1>
+        Need to Contact us?
+    </h1>
+
+    <p>Helllo</p>
+
+    <div class="form-floating mb-3 mt-3">
+        <input type="text" class="form-control" id="email" placeholder="Enter email" name="email">
+        <label id="em" for="email">Leave your Email</label>
+    </div>
+
+    <div class="form-floating">
+        <textarea class="form-control" rows="8" id="comment" name="text" placeholder="Comment goes here"></textarea>
+        <label id="em" for="comment">Reason for contact</label>
+    </div>
+
+    <br>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+    <script>
+        document.getElementById("contactForm").addEventListener("submit", function(event){
+            event.preventDefault(); // Prevents the default form submission (which reloads the page)
+            alert("Form submitted successfully!"); // Replace with your actual submission logic
+        });
+    </script>
+
+
+    <br><br><br><br>
+
+        
+
+    <iframe id= "CopyR" src="../../CopyR.html"></iframe>
+
+</body>
+
+
+
+
+</html>
