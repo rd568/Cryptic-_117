@@ -62,28 +62,27 @@
         Need to Contact us?
     </h1>
 
-    <p>Helllo</p>
 
-    <div class="form-floating mb-3 mt-3">
-        <input type="text" class="form-control" id="email" placeholder="Enter email" name="email">
-        <label id="em" for="email">Leave your Email</label>
-    </div>
+    <div class="container">
+        <div class="row">
+          <form action="">
 
-    <div class="form-floating">
-        <textarea class="form-control" rows="8" id="comment" name="text" placeholder="Comment goes here"></textarea>
-        <label id="em" for="comment">Reason for contact</label>
-    </div>
+              <div class="form-group">
+                  <label for="email">Email:</label>
+                  <input type="email" class="form-control" id="email"
+                         placeholder="Enter email" name="email">
+              </div>
 
-    <br>
-    
-    <button type="submit" class="btn btn-primary">Submit</button>
+              <div class="form-group">
+                <label for="reason">Reason for Contact:</label>
+                <input type="text" class="form-control" id="reason"
+                       placeholder="Contact" name="reason">
+            </div>
 
-    <script>
-        document.getElementById("contactForm").addEventListener("submit", function(event){
-            event.preventDefault(); // Prevents the default form submission (which reloads the page)
-            alert("Form submitted successfully!"); // Replace with your actual submission logic
-        });
-    </script>
+              <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+      </row>
+
 
 
     <br><br><br><br>
