@@ -17,6 +17,13 @@
     margin-top: 10px;
 }
 
+@font-face {
+    font-family: "Rocker";
+    src: url('../../Fonts/New_Rocker/NewRocker-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .By1{
     width: 1000px;
     position: relative;
@@ -42,6 +49,7 @@ u{
 
 p{
     color: black;
+    font-family: "Rocker", "san-serif";
 }
 
 #doverD{
