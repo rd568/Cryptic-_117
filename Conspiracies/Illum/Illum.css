@@ -50,12 +50,48 @@ p{
 
 #imgI1{
     width: 500px;
+    height: 500px;
     position: relative;
     left: 500px;
     padding-bottom: 20px;
     padding-left: 5px;
     padding-right: 5px;
     padding-top: 20px;
+}
+
+#Nuk{
+
+    width: 150px;
+    padding: 5px 5px;
+
+}
+
+#Pen{
+
+    width: 150px;
+    padding: 5px 5px;
+
+}
+
+#Epi{
+
+    width: 150px;
+    padding: 5px 5px;
+
+}
+
+#Cdc{
+
+    width: 150px;
+    padding: 5px 5px;
+
+}
+
+#Iw{
+
+    width: 150px;
+    padding: 5px 5px;
+
 }
 
 h1{
