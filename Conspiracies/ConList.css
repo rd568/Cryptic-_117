@@ -4,49 +4,51 @@
 }
 
 #Moon{
-    width: 200px;
+    width: 15%; /* was 200px */
     display: flex;
     position: relative;
     align-items: center;
-    left: 650px;
-    padding: 4px 4px;
+    left: 45%; /* was 650px */
+    padding: 0.5%;
 }
 
 #Moonl{
-    font-size: 40px;
-    padding: 4px 4px;
+    font-size: 3vw; /* was 40px */
+    padding: 0.5%;
     position: relative;
     margin: 0;
 }
 
 #desMoon{
-    width: 400px;
+    width: 30%; /* was 400px */
     position: relative;
-    left: 550px;
+    left: 38%; /* was 550px */
     background-color: rgba(52, 36, 36, 0.626);
+    color: white;
 }
 
 #Il{
-    width: 200px;
+    width: 15%; /* was 200px */
     display: flex;
     position: relative;
     align-items: center;
-    left: 650px;
-    padding: 4px 4px;
+    left: 45%; /* was 650px */
+    padding: 0.5%;
 }
 
 #Illu{
-    font-size: 40px;
-    padding: 4px 4px;
+    font-size: 3vw; /* was 40px */
+    padding: 0.5%;
     position: relative;
     margin: 0;
 }
 
 #desIl{
-    width: 400px;
+    width: 30%; /* was 400px */
     position: relative;
-    left: 550px;
+    left: 38%; /* was 550px */
     background-color: rgba(52, 36, 36, 0.626);
+    color: white;
 }
 
 ListCon{
