@@ -8,14 +8,13 @@
 }
 
 #Slogo {
-    width: 20%; /* Increased from 4% */
+    width: 20%;
     height: 20%;
     display: block;
     padding: 0.5%;
     position: relative;
     right: 1%;
 }
-
 
 #Quick {
     margin: auto;
@@ -31,7 +30,7 @@
 
 #Quick th {
     padding: 2% 2%;
-    font-size: 1.2vw;
+    font-size: 120%;
     border: 0.3% solid rgb(143, 169, 109);
     border-style: inset;
     color: rgb(0, 0, 0);
@@ -52,14 +51,14 @@
 
 .navbar-nav .nav-link {
     color: white;
-    font-size: 1.2vw;
+    font-size: 120%;
     padding: 1%;
     background-color: rgb(14, 15, 21);
 }
 
 .navbar-nav .nav-link:hover {
-    color: rgb(143, 169, 109);
     color: white;
+    background-color: rgb(143, 169, 109);
 }
 
 .dropdown:hover .dropdown-menu {

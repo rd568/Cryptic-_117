@@ -4,49 +4,49 @@
 }
 
 #Moon{
-    width: 15%; /* was 200px */
+    width: 15%;
     display: flex;
     position: relative;
     align-items: center;
-    left: 45%; /* was 650px */
+    left: 45%;
     padding: 0.5%;
 }
 
 #Moonl{
-    font-size: 3vw; /* was 40px */
+    font-size: 250%;
     padding: 0.5%;
     position: relative;
     margin: 0;
 }
 
 #desMoon{
-    width: 30%; /* was 400px */
+    width: 30%;
     position: relative;
-    left: 38%; /* was 550px */
+    left: 38%;
     background-color: rgba(52, 36, 36, 0.626);
     color: white;
 }
 
 #Il{
-    width: 15%; /* was 200px */
+    width: 15%;
     display: flex;
     position: relative;
     align-items: center;
-    left: 45%; /* was 650px */
+    left: 45%;
     padding: 0.5%;
 }
 
 #Illu{
-    font-size: 3vw; /* was 40px */
+    font-size: 250%;
     padding: 0.5%;
     position: relative;
     margin: 0;
 }
 
 #desIl{
-    width: 30%; /* was 400px */
+    width: 30%;
     position: relative;
-    left: 38%; /* was 550px */
+    left: 38%;
     background-color: rgba(52, 36, 36, 0.626);
     color: white;
 }

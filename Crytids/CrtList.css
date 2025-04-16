@@ -3,49 +3,49 @@
 }
 
 #Goat {
-    width: 15%; /* was 200px */
+    width: 15%;
     display: flex;
     position: relative;
     align-items: center;
-    left: 45%; /* was 650px */
+    left: 45%;
     padding: 0.5%;
 }
 
 #GoatH {
-    font-size: 250%; /* was 40px */
+    font-size: 250%;
     padding: 0.5%;
     position: relative;
     margin: 0;
 }
 
 #desGoat {
-    width: 30%; /* was 400px */
+    width: 30%;
     position: relative;
-    left: 38%; /* was 550px */
+    left: 38%;
     background-color: rgba(52, 36, 36, 0.626);
     color: white;
 }
 
 #DD {
-    width: 15%; /* was 200px */
+    width: 15%;
     display: flex;
     position: relative;
     align-items: center;
-    left: 45%; /* was 650px */
+    left: 45%;
     padding: 0.5%;
 }
 
 #DDH {
-    font-size: 250%; /* was 40px */
+    font-size: 250%;
     padding: 0.5%;
     position: relative;
     margin: 0;
 }
 
 #desDD {
-    width: 30%; /* was 400px */
+    width: 30%;
     position: relative;
-    left: 38%; /* was 550px */
+    left: 38%;
     background-color: rgba(52, 36, 36, 0.626);
     color: white;
 }

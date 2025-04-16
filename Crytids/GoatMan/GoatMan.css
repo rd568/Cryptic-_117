@@ -10,7 +10,7 @@
 }
 
 #goatBack{
-    width: 70%; /* was 1000px */
+    width: 70%;
     height: auto;
     padding: 2.5%;
     border: none;
@@ -19,16 +19,16 @@
     text-align: center;
     align-items: center;
     position: relative;
-    left: 17.5%; /* was 250px */
+    left: 17.5%;
     color: black;
-    font-size: 125%; /* was 20px */
+    font-size: 125%;
     margin-top: 1%;
 }
 
 #imgG1{
-    width: 35%; /* was 500px */
+    width: 35%;
     position: relative;
-    left: 35%; /* was 500px */
+    left: 35%;
     padding: 2% 0.5%;
 }
 
@@ -49,10 +49,10 @@ h1{
 }
 
 .By1{
-    width: 70%; /* was 1000px */
+    width: 70%;
     position: relative;
-    left: 20%; /* was 300px */
-    font-size: 87.5%; /* was 14px */
+    left: 20%;
+    font-size: 87.5%;
     padding: 0;
 }
 
