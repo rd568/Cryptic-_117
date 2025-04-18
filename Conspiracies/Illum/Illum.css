@@ -1,5 +1,5 @@
 .tst {
-    width: 70%; /* was 1000px */
+    width: 70%;
     height: auto;
     padding: 2.5%;
     border: none;
@@ -8,17 +8,17 @@
     text-align: center;
     align-items: center;
     position: relative;
-    left: 17.5%; /* was 250px */
+    left: 17.5%;
     color: black;
-    font-size: 125%; /* was 20px */
+    font-size: 125%;
     margin-top: 1%;
 }
 
 .By1 {
-    width: 70%; /* was 1000px */
+    width: 70%;
     position: relative;
-    left: 21%; /* was 300px */
-    font-size: 87.5%; /* was 14px */
+    left: 21%;
+    font-size: 87.5%;
     padding: 0;
 }
 
@@ -41,10 +41,10 @@ p {
 }
 
 #imgI1 {
-    width: 35%; /* was 500px */
-    height: auto; /* auto for responsive height */
+    width: 35%;
+    height: auto;
     position: relative;
-    left: 35%; /* was 500px */
+    left: 35%;
     padding: 2% 0.5%;
 }
 
@@ -53,7 +53,7 @@ p {
 #Epi,
 #Cdc,
 #Iw {
-    width: 10%; /* was 150px */
+    width: 10%;
     padding: 0.5%;
 }
 
